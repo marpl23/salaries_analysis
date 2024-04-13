@@ -20,4 +20,6 @@ El notebook incluye varias secciones:
 
 ## 🚀 Cómo empezar
 
-Para ejecutar este notebook, necesitarás tener instalado Jupyter en tu entorno local o utilizar plataformas como Google Colab
+Para ejecutar este notebook, necesitarás tener instalado Jupyter en tu entorno local o utilizar plataformas como Google Colab.
+En el archivo CSV encontrarás la base de datos de la que obtendremos la información.
+En el archivo IPYNB encontrarás los resultados.
