@@ -19,7 +19,8 @@ El notebook incluye varias secciones:
 4. **Insights y conclusiones**: Observaciones clave sobre los factores que afectan los salarios en el sector IT.
 
 ## 🚀 Cómo empezar
-
-Para ejecutar este notebook, necesitarás tener instalado Jupyter en tu entorno local o utilizar plataformas como Google Colab.
-En el archivo CSV encontrarás la base de datos de la que obtendremos la información.
-En el archivo IPYNB encontrarás los resultados.
+- Para ejecutar este notebook, necesitarás tener instalado Jupyter en tu entorno local o utilizar plataformas como Google Colab.
+  
+- En el archivo CSV encontrarás la base de datos de la que obtendremos la información.
+  
+- En el archivo IPYNB encontrarás los resultados.
